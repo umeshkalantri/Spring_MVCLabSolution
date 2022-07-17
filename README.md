@@ -1,4 +1,4 @@
-# Uvaraj_Spring_MVCLabSolution
+# Umesh_Spring_MVCLabSolution
 Lab 5 - Spring_MVC
 
 “Lab Session”
